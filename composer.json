@@ -1,5 +1,5 @@
 {
-  "name": "aloware/horizon-wildcard-consumer",
+  "name": "6phere/horizon-wildcard-consumer",
   "description": "Extended Laravel Horizon providing listening dynamically added queues matched by wildcard.",
   "license": "MIT",
   "authors": [
