@@ -13,15 +13,15 @@
     }
   ],
   "require": {
-    "php": "^7.1",
+    "php": "*",
     "ext-json": "*",
     "ext-pcntl": "*",
-    "illuminate/support": "^5.7|^6.0",
-    "illuminate/console": "^5.7|^6.0",
-    "illuminate/queue": "^5.7|^6.0",
-    "laravel/horizon": "^2.0|^3.0",
-    "illuminate/database": "^5.7|^5.8|^6.0",
-    "vladimir-yuldashev/laravel-queue-rabbitmq": "^8.0|^9.0|^10.0"
+    "illuminate/support": "*",
+    "illuminate/console": "*",
+    "illuminate/queue": "*",
+    "laravel/horizon": "*",
+    "illuminate/database": "*",
+    "vladimir-yuldashev/laravel-queue-rabbitmq": "*"
   },
   "require-dev": {
     "phpunit/phpunit": "^7.5|^8.4",
