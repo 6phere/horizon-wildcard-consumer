@@ -6,7 +6,7 @@ This package allows you to listen queues added dynamically by having wildcard `*
 You can install the package via composer using the following command:
 
 ```sh
-composer require aloware/horizon-wildcard-consumer
+composer require 6phere/horizon-wildcard-consumer
 ```
 ## Usage
 This package provides single command to consume dynamically added queues:
