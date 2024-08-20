@@ -44,9 +44,6 @@
       "providers": [
         "Aloware\\HorizonWildcardConsumer\\HorizonWildcardConsumerServiceProvider"
       ]
-    },
-    "branch-alias": {
-        "main": "1.0.0-dev"
     }
   },
   "suggest": {
